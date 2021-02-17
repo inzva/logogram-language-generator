@@ -1,3 +1,20 @@
+# Logogram Language Generator
+
+This project is done within the scope of inzva AI Projects #5 August-November 2020. Check out other projects from the inzva GitHub.
+
+  
+[Medium Post]: https://medium.com/@selim.seker00/logogram-language-generator-eb003293d51d .
+
+[Record]: https://www.youtube.com/watch?v=hTKlFtC7NMw of the final project presentation (in Turkish)
+
+
+
+![wordsGif](./img/wordsGif.gif)<br/><br/>
+![logograms1_en_postprocess](./img/logograms1_en_postprocess.png)
+
+
+
+
 ## Readings
 
 #### Multilingual embedding: 
@@ -30,6 +47,7 @@
 
 
 #### Generative Models:
+
 * https://arxiv.org/pdf/1312.6114.pdf
 
 * https://arxiv.org/pdf/1511.05644.pdf
@@ -50,10 +68,10 @@
 
 
 #### Drive Link for Docs
+
 * https://drive.google.com/drive/folders/1md5ZayU85yaKnx0d6LM63gR1NwQNd3pX?usp=sharing
 
 
 
 
 ![model](./img/model.svg)
-
